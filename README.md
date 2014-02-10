@@ -1,5 +1,7 @@
 ### .files
 
+![gif gif gif](http://styxofdynamite.bitnamiapp.com/dotfiles.mov.gif)
+
 The dotfiles in this project add some pretty cool functionality / shortcuts to your Mac terminal.
 Some are definately more useful than others.
 
