@@ -19,12 +19,14 @@ is where I happen to symlink any custom scripts to
 ## .bash_prompt
 
 this is my custom bash prompt, it has a few tweaks such as:
+
 + no username or host if they are the default.
 + its funky colors
 + git info on the path
 
 ## .exports
 this file handles setting some defaults up:
+
 + nano as the text editor
 + larger bash history
 + ignore some commands in history
@@ -34,6 +36,8 @@ this file handles setting some defaults up:
 
 ## .aliases
 loads of aliases, some pretty helpful, some less so maybe:
+
++ svn up without externals
 + easier navigation
 + shortcuts
 + lists and stuff in color
@@ -49,6 +53,7 @@ loads of aliases, some pretty helpful, some less so maybe:
 
 ## .functions
 some handy functions, some less handy ones:
+
 + create a new directory and enter it
 + create a .tar.gz archive, using `zopfli`, `pigz` or `gzip` for compression
 + determine size of a file or total size of a directory
