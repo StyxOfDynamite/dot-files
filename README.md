@@ -15,7 +15,7 @@ Loading the .files is handled when the terminal starts using `.bash_profile`
 as you might already have some .files configured in your `~` you can just append these to your exsiting .files using `cat`
 e.g.
 
-	cat .newdfle >> .existingfile
+	cat .newfile >> .existingfile
 
 ## .path
 
