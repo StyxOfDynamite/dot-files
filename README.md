@@ -1,9 +1,5 @@
 ### .files
 
-![gif](https://gitlab.hq.jadu.net/luke.storer/dotfiles/blob/master/dotfiles.mov.gif "Demo")
-
-
-
 The dotfiles in this project add some pretty cool functionality / shortcuts to your Mac terminal.
 Some are definately more useful than others.
 
